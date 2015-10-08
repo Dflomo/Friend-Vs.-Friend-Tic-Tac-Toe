@@ -49,7 +49,7 @@ int main()
 	int counter = 0;					//IN	- counter up to 9 plays
 
 	//VOID FUNCTION - Outputs Document Headers
-	PrintHeaders("Multi-Dimensional Arrays", 'A', 5);
+	PrintHeaders();
 	//VOID FUNCTION - Outputs the themed instructions for TicTacToe
 	OutputInstruct();
 
