@@ -12,16 +12,12 @@ const int COL_NUMS = 3;
 
 /*************************************************************************
  * PrintHeaders
- * This function outputs the appropriate class headings. It has inputs of
- * three literals, including the name of the assignment, the assignment
- * type of 'A' or 'L', and the assignment number of any integer.
+ * This function outputs the appropriate name
  *
  * RETURNS: nothing
  * 		Displays the appropriate class headers
  *************************************************************************/
-void PrintHeaders(string asName,
-				  char asType,
-				  int asNum);
+void PrintHeaders();
 
 
 /*************************************************************************
